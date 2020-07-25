@@ -17,7 +17,11 @@ Learnt how to calculate the magnitude of the vector. <br>
 Dot product is the relationship between the input and weight. <br>
 If vector "u", dotted with vector "w + b" equals zero, it means that Vector u is on the decision boundary. <br>
 If vector "u", dotted with vector "w + b" is greater or equal to zero, it means that the sample is of a class above the hyperplane. <br>
-
+* Day 23 - Support Vector Machine Fundamentals; <br>
+A support vector is a feature set that if moved, affects the position of the best separating hyperplane. <br>
+* Day 24 - Support Vector Machine Optimization; <br>
+Equation for hyperplane is X.W + b <br>
+Support Vector Machines are less effective when the data is noisy and contains overlapping points. <br>
 
 
 ```diff
