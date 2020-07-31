@@ -22,7 +22,13 @@ A support vector is a feature set that if moved, affects the position of the bes
 * Day 24 - Support Vector Machine Optimization; <br>
 Equation for hyperplane is X.W + b <br>
 Support Vector Machines are less effective when the data is noisy and contains overlapping points. <br>
-
+* Day 29 & 30 - Introduction to Kernels; <br>
+Kernels are done using inner product. <br>
+Kernels take two inputs and outputs the similarities. <br>
+Inner Product is a projection of x1 onto x2. <br>
+Kernel is represented using the greek letter "phi"<br>
+Transformation of the old and creation of new hyperplane helps SVM to perform better on non-linearly separable data. <br>
+The default kernel for SVM using sckit-learn is Radio base function <br>
 
 ```diff
 + #DSN70daysofML
