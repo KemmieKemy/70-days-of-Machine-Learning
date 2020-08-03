@@ -29,6 +29,7 @@ Inner Product is a projection of x1 onto x2. <br>
 Kernel is represented using the greek letter "phi"<br>
 Transformation of the old and creation of new hyperplane helps SVM to perform better on non-linearly separable data. <br>
 The default kernel for SVM using sckit-learn is Radio base function <br>
+* Day 31 - Soft Margin SVM
 
 ```diff
 + #DSN70daysofML
