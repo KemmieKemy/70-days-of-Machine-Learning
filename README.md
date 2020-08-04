@@ -37,6 +37,11 @@ In Soft margin there's a degree of error called Slack.<br>
 The value of slack in SVM can best be represented with S>=0 .<br>
 A slack value of Zero indicates a Hard Margin. <br>
 Given that (SV(support Vectors) / Number of samples ) > 1, indicates; Overfitting, Non- linearly separable data and Wrong kernel.<br>
+* <b> Day 33 - Support Vector Machine Parameters </b> <br>
+SVM is a binary classifier, so it can only seperate two groups per decision boundary; OVO - One versus One and OVR - One Versus Rest. <br>
+I learnt about a lot of SVM Parameters. <br>
+
+
 
 ```diff
 + #DSN70daysofML
