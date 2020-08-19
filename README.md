@@ -40,6 +40,13 @@ Given that (SV(support Vectors) / Number of samples ) > 1, indicates; Overfittin
 * <b> Day 33 - Support Vector Machine Parameters </b> <br>
 SVM is a binary classifier, so it can only seperate two groups per decision boundary; OVO - One versus One and OVR - One Versus Rest. <br>
 I learnt about a lot of SVM Parameters. <br>
+* <b> Day 43 - Introduction to Neural Networks. </b> <br>
+A neural network with two or more hidden layers. <br>
+The layers of a neural network are; Input, Hidden and Output. <br>
+An activation function serves as a threshold for determining output value. <br>
+The idea of a Neural Network is dea is to mimic a neuron, and, with a basic neuron, you have the dendrites, a nucleus, axon, and terminal axon. <br>
+* <b> Day 44 - Installation of TensorFlow. </b> <br>
+<br>
 
 
 
