@@ -48,7 +48,7 @@ The idea of a Neural Network is dea is to mimic a neuron, and, with a basic neur
 * <b> Day 44 - Installation of TensorFlow. </b> <br>
 I wrote an article on it. Click [here](https://medium.com/datadriveninvestor/installing-tensorflow-gpu-using-anaconda-on-windows-ac23b66d05f1?source=friends_link&sk=8521b99db5c921f9a9d18bf07df26019) to read.<br>
 * Day 65 - Introduction to 3D Convolutional Neural Network <br>
-
+<br>
 Done with 70 Days of ML:
 <br>
 Resources;
