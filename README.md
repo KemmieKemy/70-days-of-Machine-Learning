@@ -1,5 +1,7 @@
 # 70 days of Machine Learning
 _This repository was made to keep track of my progress during Data Science Nigeria's 70 days of Machine Learning_<br>
+![Pull Requests](https://img.shields.io/github/issues-pr/KemmieKemy/70-days-of-Machine-Learning)
+![Forks](https://img.shields.io/github/forks/KemmieKemy/70-days-of-Machine-Learning)
 * Day 1 - Introduction to Machine Learning
 * Day 7 - How Linear Regression works
 * <b> Day 10 - R-Squared theory;</b> <br> 
